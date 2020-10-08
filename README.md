@@ -1,2 +1,1 @@
-# my-doggo-app
-Doggo React App
+# My Doggo React App
